@@ -1,4 +1,8 @@
 pandas
+numpy
 scikit-learn
 openpyxl
--e .
+seaborn
+catboost
+xgboost
+# -e .
